@@ -1,3 +1,9 @@
-Dalvik/2.1.0 (Linux; U; Android 12.5.0; 2028 Build/PQ3B.130115.014)[FBAN/FB4A;FBAV/396.1.0.28.104;FBPN/com.facebook.katana;FBLC/en_AU;FBBV/319214969;FBCR/WoolworthsMobile;FBMF/Itel;FBBD/itel;FBDV/2028;FBSV/12.5.0;FBCA/x86_64:x86:armeabi-v7a;FBDM/{density=1.25,width=1112,height=1600};FB_FW/1;FBRV/319611051;]
-Dalvik/2.1.0 (Linux; U; Android 15.9.0; POCO F4 GTBuild/TQ3A.070302.010)[FBAN/FB4A;FBAV/353.0.0.34.116;FBPN/com.facebook.katana;FBLC/en_US;FBBV/310616677;FBCR/Freedom Wireless;FBMF/Poco;FBBD/poco;FBDV/POCO F4GT;FBSV/15.9.0;FBCA/x86:arm64-v8a:armeabi-v7a;FBDM/{density=3.75,width=907,height=2331};]
-Dalvik/2.1.0 (Linux; U; Android 8.8.1; LMG850EMW Build/SD2A.091211.034)[FBAN/FB4A;FBAV/170.0.0.52.95;FBPN/com.facebook.katana;FBLC/fr_CA;FBBV/105856850;FBCR/BellMobilité;FBMF/LG;FBBD/lg;FBDV/LMG850EMW;FBSV/8.8.1;FBCA/x86_64:x86:armeabi-v7a;FBDM/{density=4.0,width=592,height=2131};]
+Dalvik/2.1.0 (Linux; U; Android 15.6.2; A85 Build/TP1A.191127.067)
+[FBAN/FB4A;FBAV/411.1.0.29.112;FBPN/com.facebook.katana;FBLC/bn_BD;FBBV/441216522;FBCR/R
+obi;FBMF/Lava;FBBD/lava;FBDV/A85;FBSV/15.6.2;FBCA/x86_64:armeabi-v7a;FBDM/{density=1.75,
+width=1244,height=2293};FB_FW/1;FBRV/441627563;]
+Dalvik/2.1.0 (Linux; U; Android 14.9.2; X80 Pro Build/PD2A.091220.062)
+[FBAN/FB4A;FBAV/465.0.0.0.6;FBPN/com.facebook.katana;FBLC/en_US;FBBV/452000754;FBCR/C-Sp
+ire Wireless;FBMF/Vivo;FBBD/vivo;FBDV/X80
+Pro;FBSV/14.9.2;FBCA/x86_64:x86:armeabi-v7a;FBDM/{density=3.8,width=1219,height=2418};FB
+_FW/1;]
