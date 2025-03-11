@@ -1,3 +1,10 @@
-Dalvik/2.1.0 (Linux; U; Android 15.5.3; A5 Build/RP1A.110511.051)[FBAN/FB4A;FBAV/389.0.0.42.111;FBPN/com.facebook.katana;FBLC/en_CA;FBBV/317817218;FBCR/GoSmartMobile;FBMF/Lenovo;FBBD/lenovo;FBDV/A5;FBSV/15.5.3;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.9,width=1312,height=1881};FB_FW/1;] FBBK/1
-Dalvik/2.1.0 (Linux; U; Android 7.5.3; RMX3716 Build/PPR2.100415.046)[FBAN/FB4A;FBAV/29.0.0.0.5;FBBV/7108191;FBDM/{density=2.8,width=1106,height=2145};FBLC/fr_CA;FBRV/7137251;FB_FW/2;FBCR/ZoomerWireless;FBMF/Realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX3716;FBSV/7.5.3;FBOP/1;FBCA/x86:armeabi-v7a;]
-Dalvik/2.1.0 (Linux; U; Android 12.9.4; A369i Build/QP1A.121206.031)[FBAN/FB4A;FBAV/392.0.0.32.108;FBPN/com.facebook.katana;FBLC/en_US;FBBV/318413147;FBCR/Cellcom;FBMF/Lenovo;FBBD/lenovo;FBDV/A369i;FBSV/12.9.4;FBCA/arm64-v8a:;FBDM/{density=1.25,width=1178,height=2382};]
+Dalvik/2.1.0 (Linux; U; Android 12.8.4; ZS690KS Build/TQ3A.240822.023)
+[FBAN/FB4A;FBAV/411.1.0.29.112;FBPN/com.facebook.katana;FBLC/fr_CA;FBBV/441216522;FBCR/F
+izz
+Mobile;FBMF/Asus;FBBD/asus;FBDV/ZS690KS;FBSV/12.8.4;FBCA/x86_64:armeabi-v7a;FBDM/{densit
+y=1.75,width=1315,height=1344};FB_FW/1;FBRV/441627540;]
+Dalvik/2.1.0 (Linux; U; Android 10.7.1; JAD-LX9 Build/PPR1.190913.033)
+[FBAN/FB4A;FBAV/147.0.0.44.75;FBBV/76755482;FBDM/{density=2.5,width=649,height=1016};FBL
+C/en_US;FBCR/Simple
+Mobile;FBMF/Huawei;FBBD/huawei;FBPN/com.facebook.katana;FBDV/JAD-LX9;FBSV/10.7.1;FBCA/ar
+meabi-v7a:armeabi;]
