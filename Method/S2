@@ -1,3 +1,10 @@
-Dalvik/2.1.0 (Linux; U; Android 6.7.1; D6603 Build/RKQ1.160405.030)[FBAN/FB4A;FBAV/24.0.0.0.1;FBPN/com.facebook.katana;FBLC/de_DE;FBBV/5467793;FBCR/EDEKASmart;FBMF/Sony;FBBD/sony;FBDV/D6603;FBSV/6.7.1;FBCA/x86:arm64-v8a:armeabi-v7a;FBDM/{density=2.5,width=853,height=1113};FB_FW/1;] FBBK/1
-Dalvik/2.1.0 (Linux; U; Android 12.5.3; A58 Build/OPR6.150227.058)[FBAN/FB4A;FBAV/359.0.0.30.118;FBBV/311816631;FBDM/{density=2.0,width=470,height=2124};FBLC/en_US;FBCR/BoostInfinite;FBMF/Itel;FBBD/itel;FBPN/com.facebook.katana;FBDV/A58;FBSV/12.5.3;FBCA/arm64-v8a:null;]
-Dalvik/2.1.0 (Linux; U; Android 14.6.4; 2011 Build/SD2A.080301.030)[FBAN/FB4A;FBAV/409.0.0.27.106;FBPN/com.facebook.katana;FBLC/bn_BD;FBBV/440813707;FBCR/Airtel;FBMF/Itel;FBBD/itel;FBDV/2011;FBSV/14.6.4;FBCA/x86_64:arm64-v8a:armeabi-v7a;FBDM/{density=1.2506,width=1235,height=2074};]
+Dalvik/2.1.0 (Linux; U; Android 14.8.4; XT2143-1 Build/QD4A.100414.010)
+[FBAN/FB4A;FBAV/401.0.0.24.77;FBPN/com.facebook.katana;FBLC/en_AU;FBBV/421209723;FBCR/ii
+Net
+Mobile;FBMF/Motorola;FBBD/motorola;FBDV/XT2143-1;FBSV/14.8.4;FBCA/armeabi-v7a:armeabi;FB
+DM/{density=1.875,width=1325,height=2520};FB_FW/1;FBRV/421610806;]
+Dalvik/2.1.0 (Linux; U; Android 13.8.2; CPH2127 Build/TP2A.120510.030)
+[FBAN/FB4A;FBAV/403.0.0.27.81;FBPN/com.facebook.katana;FBLC/en_AU;FBBV/421611052;FBCR/Ta
+ngerine
+Telecom;FBMF/OPPO;FBBD/oppo;FBDV/CPH2127;FBSV/13.8.2;FBCA/armeabi-v7a:armeabi;FBDM/{dens
+ity=2.8,width=884,height=1080};]
